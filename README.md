@@ -8,7 +8,7 @@ The SUM function is a simple addition operation that summarizes a value based on
 
 In conclusion, while both SUM and SUMX functions are valuable tools in Power BI, they serve different purposes. The SUM function is ideal for simple addition operations on a single column, while the SUMX function is more suitable for complex calculations that require analysis of multiple rows in a table.
 
-# SUM(<column>)
+SUM(<column>)
 
 SUM is a simple aggregate function. Summarizes a value based on a filter context.
 
@@ -20,7 +20,7 @@ The SUM Function calculates the value summarizing the Total Sales Amount in our 
 
 NOTE: All other aggregate functions work in the same way.
 
-# SUMX(<table>, <expression>)
+SUMX(<table>, <expression>)
 
 SUMX function is another essential iterative function in Power BI. It is called an iterative function because of its iterative nature.
 
@@ -36,7 +36,7 @@ Satış Adedine Göre Toplam Satış Tutarı = SUMX(‘işlemler’,
 
 ![image](https://user-images.githubusercontent.com/127193220/227167667-1b3de390-701d-43e0-bf57-c347dda77f70.png)
 
-#Using the SUMX Function with the FILTER Function
+Using the SUMX Function with the FILTER Function
 
 Let's delve into the details of SUMX, a powerful iterative function used in Power BI. Due to its iterative nature, SUMX is classified as an iterative function.
 
