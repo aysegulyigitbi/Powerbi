@@ -36,7 +36,7 @@ Satış Adedine Göre Toplam Satış Tutarı = SUMX(‘işlemler’,
 
 ![image](https://user-images.githubusercontent.com/127193220/227167667-1b3de390-701d-43e0-bf57-c347dda77f70.png)
 
-# Using the SUMX Function with the FILTER Function
+#Using the SUMX Function with the FILTER Function
 
 Let's delve into the details of SUMX, a powerful iterative function used in Power BI. Due to its iterative nature, SUMX is classified as an iterative function.
 
