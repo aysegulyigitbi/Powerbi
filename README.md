@@ -20,7 +20,7 @@ The SUM Function calculates the value summarizing the Total Sales Amount in our 
 
 NOTE: All other aggregate functions work in the same way.
 
-SUMX(<table>,<expression>)
+SUMX()
 
 SUMX function is another essential iterative function in Power BI. It is called an iterative function because of its iterative nature.
 
