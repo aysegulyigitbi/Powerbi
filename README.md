@@ -5,6 +5,7 @@ Hello everyone, We can analyze our complex models and improve the performance of
 Bravo in 4 Steps
 
 1) Analyze Model
+
 With Bravo, we can quickly analyze and optimize which columns to remove to see where our model is consuming the most memory. We can also use it to transfer our metadata to VPAX files.
 
 ![image](https://user-images.githubusercontent.com/127193220/234001635-e5eb4ef4-c855-460e-aa21-4e0367122363.png)
