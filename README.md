@@ -78,7 +78,9 @@ Dual mode, verilerin hem Power BI raporunda hem de veri kaynağında saklandığ
 **Kullanım senaryoları:**
 Bu mod, verilerin gerçek zamanlı olarak güncellenmesi gereken senaryolarda kullanılır. Örneğin, bir şirketin güncel stok bilgilerini veya satış verilerini izlemesi gerektiği bir durumda, dual mode kullanışlı olabilir.
 
+
 **Live Connection Mode**
+
 Power BI'ın harici olarak (çoğunlukla Azure Analysis Services veya SQL Server Analysis Services) barındırılan bir veri modeline doğrudan bağlandığı senaryoyu temsil eder.
 
 **Avantajları:** 
