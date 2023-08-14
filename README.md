@@ -74,7 +74,8 @@ Dual mode, verilerin hem Power BI raporunda hem de veri kaynağında saklandığ
 
 **Dezavantajları:**
  Bu depolama modunun dezavantajı, büyük veri kümelerinin Power BI raporlarında performans sorunlarına neden olabileceğidir. Ayrıca, bu modun kullanımı için verilerin iki kez saklanması gerekir, bu da depolama alanını artırabilir.
-Kullanım senaryoları: 
+ 
+**Kullanım senaryoları:**
 Bu mod, verilerin gerçek zamanlı olarak güncellenmesi gereken senaryolarda kullanılır. Örneğin, bir şirketin güncel stok bilgilerini veya satış verilerini izlemesi gerektiği bir durumda, dual mode kullanışlı olabilir.
 
 **Live Connection Mode**
