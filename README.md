@@ -2,6 +2,8 @@
 
 Günlük işlerimizde hızlı ve doğru kararlar alabilmemiz için veri analizi oldukça önemlidir. Bu noktada, Power BI gibi araçlar da bize büyük kolaylık sağlamaktadır. Power BI, verilerinizi farklı depolama modlarında saklayabilmenizi ve kullanabilmenizi sağlar. Fakat hangi depolama modunu seçmeniz gerektiğine karar vermek de oldukça önemlidir.
 
+For english please click here: https://medium.com/plumbersofdatascience/storage-modes-in-power-bi-650c36efa462 
+
 ![image](https://github.com/aysegulyigitbi/Powerbi/assets/127193220/172738a7-8516-4c1c-b0d6-3c3135065b67)
 
 **Direct Query Modu** verilerinizi orijinal veri kaynağına bağlı tutarak sorguları gerçek zamanlı olarak veri kaynağına gönderir. Bu sayede, verileriniz her zaman güncel ve doğru tutulur. Özellikle büyük veri kümeleriyle çalıştığınızda tercih edilen bir depolama modudur. Ancak, verilerinizi depolama alanında saklamadığınız için, raporlama performansı etkilenebilir.
