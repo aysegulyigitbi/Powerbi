@@ -18,6 +18,7 @@ Raporunuzda kullanacağınız renklerin kontrastlı olmasını sağlayın. Bu, v
 ![image](https://github.com/aysegulyigitbi/Powerbi/assets/127193220/4f43429e-f060-4595-b44a-2b32dfb79cb8)
 
 3. **Marka Renklerinizi Kullanın:**
+
 İşletmenizin marka renklerini raporunuzda kullanarak, raporunuzun markanıza uygun olmasını sağlayabilirsiniz. Bu, marka bilinirliğinizi artırır ve raporunuzun daha profesyonel bir görünüme sahip olmasını sağlar.
 
 ![image](https://github.com/aysegulyigitbi/Powerbi/assets/127193220/b5109ef7-ff69-4569-b0a8-d44ea6755ec6)
