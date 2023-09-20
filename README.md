@@ -2,6 +2,8 @@
 
 Verilerinizi Power BI raporlarında görselleştirmek, işletmenizin performansını ölçmek ve anlamak için son derece önemlidir. Ancak, verileri anlamlı ve etkili bir şekilde sunmanın en önemli yollarından biri de renk paletleridir. Renk paletlerini doğru bir şekilde kullanarak, verilerinizin anlaşılabilirliğini ve görünümünü artırabilirsiniz.
 
+**For english please click here:** https://medium.com/@ayigit/10-tips-for-creating-impressive-power-bi-reports-with-color-palettes-11c253560961
+
 İşte Power BI'da renk paletlerini verimli kullanmak için bazı ipuçları:
 
 1. **Kontrastlı Renkleri Kullanın:**
