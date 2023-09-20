@@ -1,4 +1,4 @@
-# Tablolarınızın Renkleriyle Etkileyici Power BI Raporları Hazırlamak İçin 10 İpucu
+# Etkileyici Power BI Raporları Hazırlamak İçin 10 İpucu
 
 Verilerinizi Power BI raporlarında görselleştirmek, işletmenizin performansını ölçmek ve anlamak için son derece önemlidir. Ancak, verileri anlamlı ve etkili bir şekilde sunmanın en önemli yollarından biri de renk paletleridir. Renk paletlerini doğru bir şekilde kullanarak, verilerinizin anlaşılabilirliğini ve görünümünü artırabilirsiniz.
 
